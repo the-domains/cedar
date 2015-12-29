@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cedar]]></title>
+        <description><![CDATA[Cedar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Dec 2015 23:13:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cedar Cussins]]></title>
+            <description><![CDATA[<article><h1>Cedar Cussins</h1><p>Lighting Designer & Multi-Media Artist</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/706808cf-9b73-45b8-9759-f97f4e949c10.jpg"></article>]]></description>
+            <link>undefinedcedar-cussins/index.html</link>
+            <guid isPermaLink="false">36b108e6-c5e0-455e-a2e3-500f3be73d36</guid>
+            <pubDate>Tue, 29 Dec 2015 23:13:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
