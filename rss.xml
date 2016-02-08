@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Cedar]]></title>
         <description><![CDATA[Cedar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cedar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 23:13:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 04:38:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cedar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Anchorage Ballet Triple Bill - Lighting Design  ]]></title>
+            <description><![CDATA[<article><h1>Anchorage Ballet Triple Bill - Lighting Design  </h1><p>Triple Bill - Chopiniana, Les Chats and Coffee Tonight</p></article>]]></description>
+            <link>https://thegrid.ai/cedar/anchorage-ballet-triple-bill-lighting-design/index.html</link>
+            <guid isPermaLink="false">d76c2e62-efd2-4d59-a82e-fb9b6c91192e</guid>
+            <pubDate>Mon, 08 Feb 2016 04:38:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cedar Cussins]]></title>
-            <description><![CDATA[<article><h1>Cedar Cussins</h1><p>Lighting Designer & Multi-Media Artist</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/706808cf-9b73-45b8-9759-f97f4e949c10.jpg"></article>]]></description>
-            <link>undefinedcedar-cussins/index.html</link>
+            <description><![CDATA[<article><h1>Cedar Cussins</h1><p>Lighting Designer & Multi-Media Artist</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3ab243c170fefc8897c6919d8a981f8d0347462.jpg"></article>]]></description>
+            <link>https://thegrid.ai/cedar/cedar-cussins/index.html</link>
             <guid isPermaLink="false">36b108e6-c5e0-455e-a2e3-500f3be73d36</guid>
             <pubDate>Tue, 29 Dec 2015 23:13:37 GMT</pubDate>
         </item>
